@@ -1,5 +1,6 @@
 # Visualice la cuenta de los múltiplos de 2 o de 3 que hay entre 1 y 100.
 
+
 # del 0 al 9
 for i in range(10):
     print(i , "\t", end="")
